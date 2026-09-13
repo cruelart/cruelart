@@ -1,4 +1,4 @@
-## Hi, I'm cruelart — an aspiring Game Client Developer
+## Hi, I'm cruelart — an aspiring Game Client Developer 👋
 
 ## Baekjoon(solved.ac) Solved Rank 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=snowyday)](https://solved.ac/snowyday)
