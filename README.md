@@ -1,7 +1,8 @@
 ## Hi there 👋
 
+## Baekjoon(solved.ac) Solved Rank 
 [![solved.ac 티어](https://solvedac-readme-stats.vercel.app/api?handle=snowyday)](https://solved.ac/profile/snowyday)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=snowyday)](https://solved.ac/snowyday)
 <!--
 **cruelart/cruelart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
